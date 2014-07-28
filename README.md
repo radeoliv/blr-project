@@ -2,7 +2,7 @@ blr-project
 ===========
 
 Client-server application using Java that records audio and converts its data to an image. The recorded audio is reproduced by processing the image content. This project involves some basic image steganography concepts.
-Created by Bruno Yamashita, Larissa Soares and Rodrigo Silva.
+Created by Bruno Yamashita, Larissa Soares and Rodrigo Silva - oct 2011.
 
 You may choose to run the system with the .jar files, or import the project to eclipse.
 
